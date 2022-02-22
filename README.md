@@ -8,7 +8,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 
 ## Screenshot
-![Screenshot]()
+![Screenshot](https://github.com/Adedeji-Taiwo/Nbc-News/blob/main/src/assets/images/Screenshot%202022-02-22%20170056.png)
   
   
 ## Link
