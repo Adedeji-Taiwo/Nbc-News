@@ -1,7 +1,7 @@
 # NBC News
 
 ## Overview
-An Angular app.
+An Angular app that displays news articles from aroun the world in different categories from News API.
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
