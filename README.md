@@ -1,6 +1,6 @@
 # NBC News
 
-📚  ## Overview
+## Overview
 An Angular app that displays news articles from around the world in different categories from News API.
 
 
