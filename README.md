@@ -1,16 +1,18 @@
 # NBC News
 
-## Overview
-An Angular app that displays news articles from aroun the world in different categories from News API.
+📚 ## Overview
+An Angular app that displays news articles from around the world in different categories from News API.
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
 
-![Screenshot](https://github.com/Adedeji-Taiwo/Catlify/blob/main/src/media/images/Screenshot%202022-01-19%20173210.png)
+📷 ##Screenshot
+![Screenshot]()
   
+🔗 ##Link
 - Live link: https://nbc-newz.herokuapp.com/
 
-## Third Party Libraries used.
+💻 ## Third Party Libraries used.
 
 You will find below the different third party libraries used in the project.
 
@@ -27,14 +29,23 @@ You will find below the different third party libraries used in the project.
 | News API | `newsapi`  | A simple, easy-to-use REST API that returns JSON search results for current and historic news articles |
 | Express | `express`  | A minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications. |
 
+📋 ##Note
+- The News API from [newsapi](https://newsapi.org/) forbids CORS request i.e the API does not accept request from a browser except from localhost. However, this can be solved by making the request on the server-side and forwarding the request to the front-end from your server.
+
+
+
+💾 ##Setup
+-Clone project `git clone https://github.com/Adedeji-Taiwo/Nbc-News.git`
+- Install dependencies using `npm install`.
+- Generate API_KEY for the API endpoints by signing up at [newsapi](https://newsapi.org/).
+- Create `.env` file to store config variables such as API Key, port, and node. Add `.env` file to gitignore before committing to keep keys and other information private.
+- Start backend server by running `node server.js` to start Express.
+
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
@@ -48,6 +59,3 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
