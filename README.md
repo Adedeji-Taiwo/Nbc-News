@@ -1,21 +1,20 @@
 # NBC News
 
-📚
 ## Overview
 An Angular app that displays news articles from around the world in different categories from News API.
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
 
- 📷
+
 ##Screenshot
 ![Screenshot]()
   
-🔗
+  
 ##Link
 - Live link: https://nbc-newz.herokuapp.com/
 
-💻 
+
 ## Third Party Libraries used.
 
 You will find below the different third party libraries used in the project.
@@ -34,14 +33,12 @@ You will find below the different third party libraries used in the project.
 | Express | `express`  | A minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications. |
 
 
-📋
+
 ##Note
 - The News API from [newsapi](https://newsapi.org/) forbids CORS request i.e the API does not accept request from a browser except from localhost. However, this can be solved by making the request on the server-side and forwarding the request to the front-end from your server.
 
 
 
-
-💾
 ##Setup
 -Clone project `git clone https://github.com/Adedeji-Taiwo/Nbc-News.git`
 - Install dependencies using `npm install`.
