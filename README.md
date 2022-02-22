@@ -7,7 +7,7 @@ An Angular app that displays news articles from around the world in different ca
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
 
-`📷`##Screenshot
+##Screenshot 📷
 ![Screenshot]()
   
 🔗 ##Link
