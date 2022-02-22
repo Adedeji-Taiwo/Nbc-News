@@ -40,7 +40,7 @@ You will find below the different third party libraries used in the project.
 
 
 ## Setup
--Clone project `git clone https://github.com/Adedeji-Taiwo/Nbc-News.git`
+- Clone project `git clone https://github.com/Adedeji-Taiwo/Nbc-News.git`
 - Install dependencies using `npm install`.
 - Generate API_KEY for the API endpoints by signing up at [newsapi](https://newsapi.org/).
 - Create `.env` file to store config variables such as API Key, port, and node. Add `.env` file to gitignore before committing to keep keys and other information private.
